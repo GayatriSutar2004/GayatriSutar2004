@@ -84,7 +84,7 @@ and collaborating on innovative projects.
 - 💼 [LinkedIn](https://www.linkedin.com/in/gayatri-sutar2004)
 - 🧠 [HackerRank](https://www.hackerrank.com/gayatrisutar1011)
 - 👩‍💻 [CodeChef](https://www.codechef.com/users/vivid_life_86)
-- 🌐 *Portfolio coming soon on Netlify!*
+- 🌐 [Portfolio](https://gayatrisutar.netlify.app)
 
 ---
 
