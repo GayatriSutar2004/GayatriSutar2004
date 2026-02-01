@@ -23,19 +23,20 @@
 
 ## 🚀 **Professional Summary**
 
-I am a **Third-Year CSE student and Software Developer** with hands-on **industry experience** in building real-world applications. I specialize in **Java, Spring Boot, and backend systems**, with working knowledge of React, Android, Docker, and databases.  
+I am a **Third-Year CSE student and Software Developer** with hands-on **real-world industry experience** in building production-ready applications.  
+My strongest expertise is in **Java and backend development**, with solid working knowledge of **Spring Boot, React, Android, Docker, and databases.**
 
 Currently, I am:
 - 💼 **Working at CodePainter Solutions**
 - 🤖 **Interning on an AI-based Data Mining Project using Agentic AI**
-- 💡 Passionate about scalable systems, APIs, and intelligent applications
+- 💡 Passionate about scalable systems, APIs, automation, and intelligent applications
 
 ---
 
 ## 🛠️ **Technical Expertise**
 
-### **Languages & Frameworks**
-- ✅ **Java (Primary)**
+### **Languages & Frameworks (Best First)**
+- ✅ **Java (Strongest)**
 - Spring Boot  
 - React  
 - Android  
@@ -43,14 +44,14 @@ Currently, I am:
 
 ### **Tools & Technologies**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -60,30 +61,34 @@ Currently, I am:
 ### **🔹 Software Developer | CodePainter Solutions (Present)**
 - Worked on real-world software applications  
 - Collaborated with a development team  
-- Built and improved backend services and application logic  
+- Designed and improved backend services and application logic  
+- Worked with APIs, databases, and application architecture  
 
 ### **🔹 AI Intern | Data Mining using Agentic AI (Ongoing)**
-- Building intelligent data extraction systems  
+- Building intelligent data extraction and processing systems  
 - Implementing agent-based AI workflows  
-- Working with structured & unstructured data processing  
+- Working with structured and unstructured data  
+- Experimenting with automation and AI-driven decision systems  
 
 ---
 
-## 🌟 **Featured Projects (Best Picks)**
+## 🌟 **Featured Projects (Best Picks Only)**
 
 ### 🚍 **Bus Pass Management System — *Best Java Project***
 **Tech:** Advanced Java  
-A scalable system for managing student bus passes with:
+A real-world system to manage student bus passes featuring:
 - Secure authentication  
 - Admin dashboard  
-- Data management & automation  
+- Automated record management  
+- Scalable data handling  
 
 ### 📇 **Contact Manager — *Best React Project***
 **Tech:** React + Backend  
-A modern contact management app featuring:
-- CRUD operations  
-- Responsive UI  
-- Persistent database storage  
+A modern web application with:
+- Full CRUD functionality  
+- Clean, responsive UI  
+- Persistent data storage  
+- Realistic application structure  
 
 🔗 **More Projects:** [View My Repositories](https://github.com/GayatriSutar2004)
 
@@ -103,6 +108,8 @@ A modern contact management app featuring:
 
 - Certified in **C, C++, DSA, Docker**
 - Internship in **HTML, CSS, JS, Bootstrap, React**
+- Industry Experience at **CodePainter Solutions**
+- AI Internship in **Agentic AI & Data Mining**
 - Participated in International Coding Competitions  
 - Runner-up in multiple coding contests  
 
@@ -121,9 +128,9 @@ A modern contact management app featuring:
 
 ---
 
-## 🎯 **Coding Mindset**
+## 🎯 **Coding Mindset (Replaced Fun Facts)**
 
-> **“Write clean code, think in systems, and build things that matter.”**
+> **“Write clean code, think in systems, automate the boring, and build things that matter.” 🚀**
 
 ---
 
