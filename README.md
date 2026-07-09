@@ -323,8 +323,94 @@
 - 📈 Data Analysis & Model Integration
 
 ---
+<!-- ===================================================== -->
+<!--              ACHIEVEMENTS & PROFILE                  -->
+<!-- ===================================================== -->
 
-# 🚀 Featured Projects
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🏆 Certifications</h3>
+
+<div align="left">
+
+✅ C Programming  
+✅ C++  
+✅ Data Structures & Algorithms  
+✅ Docker  
+✅ HTML & CSS  
+✅ JavaScript  
+✅ Bootstrap  
+✅ React  
+✅ Java Programming  
+✅ Spring Boot  
+
+</div>
+
+</td>
+
+
+<td width="33%" valign="top">
+
+<h3 align="center">🥇 Achievements</h3>
+
+<div align="left">
+
+🏆 Coding Contest Runner-up  
+
+🌍 International Coding Competitions  
+
+💻 Industry Experience  
+
+🤖 AI Internship  
+
+🚀 Production Applications  
+
+⭐ Java Backend Development  
+
+</div>
+
+</td>
+
+
+<td width="33%" valign="top">
+
+<h3 align="center">🌱 Currently Working On</h3>
+
+<div align="left">
+
+🚀 Enterprise Applications  
+
+🤖 Agentic AI  
+
+☁️ Cloud Computing  
+
+🐳 Docker  
+
+⚙️ Microservices  
+
+📈 System Design  
+
+📚 DSA  
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🎓 Education
+
+<div align="center">
 
 <table>
 
@@ -332,92 +418,26 @@
 
 <td width="50%">
 
-## 🏥 Hospital Management System
+### 🎓 Bachelor of Technology
 
-Full Stack Healthcare Management Platform
+**Computer Science Engineering**
 
-### Tech Stack
+🏫 Annasaheb Dange College of Engineering, Ashta
 
-- Java
-- Spring Boot
-- React
-- PostgreSQL
-
-### Features
-
-- Patient Management
-- Doctor Management
-- Appointment Booking
-- Billing System
-- Admin Dashboard
-
-🔗 Repository:
-https://github.com/GayatriSutar2004
+📊 CGPA: **8.73**
 
 </td>
+
 
 <td width="50%">
 
-## 📚 Library Management System
+### 🎓 Diploma
 
-Modern Digital Library Platform
+**Computer Engineering**
 
-### Tech Stack
+🏫 Government Polytechnic, Karad
 
-- Java
-- Spring Boot
-- MySQL
-
-### Features
-
-- Book Management
-- Student Records
-- Issue/Return
-- Authentication
-- Reports
-
-🔗 Repository:
-https://github.com/GayatriSutar2004
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 🤖 AI Data Mining System
-
-AI-powered intelligent data processing.
-
-### Tech Stack
-
-- Java
-- Python
-- Agentic AI
-
-### Features
-
-- Data Processing
-- AI Workflows
-- Smart Automation
-- Analytics
-
-</td>
-
-<td>
-
-## 📱 Android Application
-
-Android Application built using Android Studio.
-
-### Features
-
-- Modern UI
-- SQLite/Firebase
-- Authentication
-- Responsive Design
+📊 Percentage: **88.34%**
 
 </td>
 
@@ -425,119 +445,35 @@ Android Application built using Android Studio.
 
 </table>
 
----
-
-# 📌 More Projects
-
-| Project | Technology |
-|----------|------------|
-| Hospital Management | Spring Boot + React |
-| AI Data Mining | Agentic AI |
-| Android App | Android Studio |
-| Portfolio Website | React |
-| REST APIs | Spring Boot |
-| CRUD Applications | Java |
-| Dockerized Projects | Docker |
+</div>
 
 ---
 
-# 🏆 Certifications
+# 📈 Career Journey
 
-✅ C Programming
-
-✅ C++
-
-✅ Data Structures & Algorithms
-
-✅ Docker
-
-✅ HTML & CSS
-
-✅ JavaScript
-
-✅ Bootstrap
-
-✅ React
-
-✅ Java Programming
-
-✅ Spring Boot
-
----
-
-# 🥇 Achievements
-
-🏆 Runner-up in Multiple Coding Competitions
-
-🌍 Participated in International Coding Competitions
-
-💻 Real-world Industry Experience
-
-🤖 AI Internship Experience
-
-🚀 Developed Production Applications
-
-⭐ Strong Java Backend Developer
-
----
-
-# 🎓 Education
-
-## 🎓 Bachelor of Technology
-
-Computer Science Engineering
-
-**Annasaheb Dange College of Engineering, Ashta**
-
-CGPA: **8.73**
-
----
-
-## 🎓 Diploma
-
-Computer Engineering
-
-**Government Polytechnic, Karad**
-
-Percentage: **88.34%**
-
----
-
-# 📈 Career Timeline
+<div align="center">
 
 ```text
-2021
+🎓 2021
 │
 ├── Diploma in Computer Engineering
 │
-2024
+💻 2024
 │
 ├── Java Full Stack Development
 │
-2025
+🚀 2025
 │
-├── Software Developer @ CodePainter
-│
+├── Software Developer @ CodePainter Solutions
 ├── AI Internship
+└── Production Projects
 │
-├── Production Projects
+🎯 2026
 │
-2026
-│
-└── Preparing for Product-Based Companies 🚀
+└── Product-Based Company Journey 🚀
 ```
 
----
-
-# 🌱 Currently Working On
-
-- 🚀 Enterprise Applications
-- 🤖 Agentic AI
-- ☁️ Cloud Computing
-- 🐳 Docker
-- ⚙️ Microservices
-- 📈 System Design
-- 📚 Data Structures & Algorithms
+</div>
 
 ---
 
@@ -550,23 +486,22 @@ Percentage: **88.34%**
 </a>
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge"/>
 </a>
 
 </p>
-
 ---
 <!-- ===================================================== -->
 <!--              GITHUB ANALYTICS & CONNECT               -->
@@ -595,13 +530,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriSutar
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GayatriSutar2004&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</div>
 
 ---
 
@@ -615,17 +543,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriSutar
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-> **⚠️ Enable the GitHub Action described below before this image will appear.**
-
-<img src="https://raw.githubusercontent.com/GayatriSutar2004/GayatriSutar2004/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # 💭 Developer Quote
 
