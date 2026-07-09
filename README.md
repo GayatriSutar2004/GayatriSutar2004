@@ -1,116 +1,693 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7C7CFF&center=true&vCenter=true&width=650&lines=Gayatri+Sutar;Software+Developer+%7C+Java+Backend+Enthusiast;Spring+Boot+%7C+React+%7C+Android+%7C+Docker;Building+Scalable+and+Intelligent+Systems" />
-</p>
+<!-- ===================================================== -->
+<!--                  GITHUB PROFILE                -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C63FF,50:8A2BE2,100:00C9FF&text=Gayatri%20Sutar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+</div>
+
+<div align="center">
+
+# Hi 👋 I'm Gayatri Sutar
+
+### 💻 Software Developer | ☕ Java Backend Developer | 🚀 Spring Boot | ⚛️ React | 🤖 AI Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C7CFF&center=true&vCenter=true&random=false&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;React+Developer;Docker+Enthusiast;AI+%26+Agentic+AI+Learner;Always+Building+Something+Awesome+🚀"/>
+
+</div>
 
 ---
 
-# 👩‍💻 **Gayatri Sutar | Software Developer**
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gayatri-sutar2004">
-    <img src="https://img.shields.io/badge/LinkedIn-Gayatri_Sutar-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/GayatriSutar2004">
-    <img src="https://img.shields.io/badge/GitHub-GayatriSutar2004-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://gayatrisutar.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=GayatriSutar2004&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/GayatriSutar2004?logo=github&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/GayatriSutar2004?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+
+</div>
 
 ---
 
-## 🚀 **Professional Summary**
+<div align="center">
 
-I am a **Final-Year CSE student and Software Developer** with hands-on **real-world industry experience** in building production-ready applications.  
-My strongest expertise is in **Full Stack development**, with solid working knowledge of **Spring Boot, React, Docker, and databases.**
+<a href="https://www.linkedin.com/in/gayatri-sutar2004">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Currently, I am:
-- 💼 **Working at CodePainter Solutions**
-- 🤖 **Interning on an AI-based Data Mining Project using Agentic AI**
-- 💡 Passionate about scalable systems, APIs, automation, and intelligent applications
+<a href="https://github.com/GayatriSutar2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://gayatrisutar.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
-## 🛠️ **Technical Expertise**
+# 💫 About Me
 
-### **Languages & Frameworks (Best First)**
-- ✅ **Java (Strongest)**
-- Spring Boot  
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+### 👩‍💻 Who Am I?
+
+🎓 Final Year Computer Science Engineering Student
+
+💼 Software Developer at **CodePainter Solutions**
+
+🤖 AI Intern working on **Agentic AI & Data Mining**
+
+☕ Passionate Java Backend Developer
+
+⚛️ Love building Full Stack Applications
+
+🚀 Interested in Distributed Systems, Cloud & AI
+
+🌱 Currently learning
+
+- Microservices
+- Kubernetes
+- System Design
+- AWS
+- Advanced Spring Boot
+
+🎯 2026 Goals
+
+- Crack a Product-Based Company
+- Contribute to Open Source
+- Build SaaS Products
+- Master System Design
+- Learn DevOps
+
+---
+<!-- ===================================================== -->
+<!--                  TECH STACK                           -->
+<!-- ===================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,cpp,c,python,html,css&theme=dark"/>
+
+<br><br>
+
+## ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,hibernate,maven&theme=dark"/>
+
+<br><br>
+
+## 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite&theme=dark"/>
+
+<br><br>
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark"/>
+
+<br><br>
+
+## 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark"/>
+
+<br><br>
+
+## ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,linux,github,git,aws&theme=dark"/>
+
+<br><br>
+
+## 💻 IDEs
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse&theme=dark"/>
+
+</div>
+
+---
+
+# 📊 Technical Expertise
+
+| Skill | Level |
+|------|---------|
+| ☕ Java | ⭐⭐⭐⭐⭐ |
+| 🌱 Spring Boot | ⭐⭐⭐⭐⭐ |
+| ⚛️ React | ⭐⭐⭐⭐☆ |
+| 🗄️ SQL | ⭐⭐⭐⭐⭐ |
+| 🍃 MongoDB | ⭐⭐⭐⭐☆ |
+| 🐳 Docker | ⭐⭐⭐⭐☆ |
+| 📱 Android | ⭐⭐⭐⭐☆ |
+| Git & GitHub | ⭐⭐⭐⭐⭐ |
+| REST APIs | ⭐⭐⭐⭐⭐ |
+| Data Structures | ⭐⭐⭐⭐☆ |
+
+---
+
+# 🚀 Core Competencies
+
+<div align="center">
+
+| Backend | Frontend | Database | DevOps |
+|----------|-----------|-----------|---------|
+| Java | React | PostgreSQL | Docker |
+| Spring Boot | HTML | MongoDB | GitHub |
+| REST APIs | CSS | MySQL | Linux |
+| Hibernate | Bootstrap | Firebase | CI/CD |
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| 🚀 Technology | Progress |
+|---------------|----------|
+| Kubernetes | 🟨🟨🟨⬜⬜ 60% |
+| AWS | 🟨🟨🟨⬜⬜ 60% |
+| Microservices | 🟨🟨🟨🟨⬜ 80% |
+| System Design | 🟨🟨🟨⬜⬜ 60% |
+| Agentic AI | 🟩🟩🟩🟩🟩 100% |
+
+</div>
+
+---
+
+# 💡 Development Philosophy
+
+> ### "Clean code always wins."
+
+> Build scalable systems.
+
+> Write maintainable code.
+
+> Solve real-world problems.
+
+> Never stop learning.
+
+---
+
+# 🧠 What I Love Building
+
+✔ REST APIs
+
+✔ Enterprise Applications
+
+✔ Full Stack Projects
+
+✔ AI-powered Solutions
+
+✔ Automation Tools
+
+✔ Backend Systems
+
+✔ Dashboards
+
+✔ Android Applications
+
+✔ Scalable Software
+
+---
+
+<div align="center">
+
+## ⚡ My Development Workflow
+
+```text
+💡 Idea
+   │
+   ▼
+📑 Planning
+   │
+   ▼
+🎨 UI Design
+   │
+   ▼
+⚙ Backend Development
+   │
+   ▼
+🗄 Database Design
+   │
+   ▼
+🧪 Testing
+   │
+   ▼
+🐳 Docker
+   │
+   ▼
+🚀 Deployment
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Favorite Quote
+
+*"Programs must be written for people to read, and only incidentally for machines to execute."*
+
+— Harold Abelson
+
+</div>
+
+---
+<!-- ===================================================== -->
+<!--          EXPERIENCE | PROJECTS | EDUCATION            -->
+<!-- ===================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+# 💼 Professional Experience
+
+## 🚀 Software Developer
+### **CodePainter Solutions**
+
+📍 Maharashtra, India
+
+🗓️ Present
+
+- 💻 Developing production-ready web applications
+- ⚙️ Building REST APIs using Spring Boot
+- 🗄️ Designing and optimizing relational databases
+- 🐳 Containerizing applications using Docker
+- 🔧 Collaborating with developers using Git & GitHub
+- 🚀 Working on scalable backend architectures
+
+---
+
+## 🤖 AI Intern
+
+### Agentic AI & Data Mining Project
+
+🗓️ Present
+
+- 🤖 Working on AI-driven automation
+- 📊 Data Mining and Intelligent Data Processing
+- 🧠 Exploring Agentic AI concepts
+- ⚡ Building AI-powered workflows
+- 📈 Data Analysis & Model Integration
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏥 Hospital Management System
+
+Full Stack Healthcare Management Platform
+
+### Tech Stack
+
+- Java
+- Spring Boot
 - React
-- SQL
-- MongoDB  
+- PostgreSQL
 
-### **Tools & Technologies**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### Features
 
+- Patient Management
+- Doctor Management
+- Appointment Booking
+- Billing System
+- Admin Dashboard
+
+🔗 Repository:
+https://github.com/GayatriSutar2004
+
+</td>
+
+<td width="50%">
+
+## 📚 Library Management System
+
+Modern Digital Library Platform
+
+### Tech Stack
+
+- Java
+- Spring Boot
+- MySQL
+
+### Features
+
+- Book Management
+- Student Records
+- Issue/Return
+- Authentication
+- Reports
+
+🔗 Repository:
+https://github.com/GayatriSutar2004
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🤖 AI Data Mining System
+
+AI-powered intelligent data processing.
+
+### Tech Stack
+
+- Java
+- Python
+- Agentic AI
+
+### Features
+
+- Data Processing
+- AI Workflows
+- Smart Automation
+- Analytics
+
+</td>
+
+<td>
+
+## 📱 Android Application
+
+Android Application built using Android Studio.
+
+### Features
+
+- Modern UI
+- SQLite/Firebase
+- Authentication
+- Responsive Design
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-🔗 ** Projects:** [View My Repositories](https://github.com/GayatriSutar2004)
+# 📌 More Projects
+
+| Project | Technology |
+|----------|------------|
+| Hospital Management | Spring Boot + React |
+| AI Data Mining | Agentic AI |
+| Android App | Android Studio |
+| Portfolio Website | React |
+| REST APIs | Spring Boot |
+| CRUD Applications | Java |
+| Dockerized Projects | Docker |
 
 ---
 
-## 🎓 **Education**
+# 🏆 Certifications
 
-- **B.Tech in Computer Science (4th Year)**  
-  Annasaheb Dange College of Engineering, Ashta  -*8.73*
+✅ C Programming
 
-- **Diploma in Computer Engineering**  
-  Government Polytechnic, Karad — *88.34%*
+✅ C++
+
+✅ Data Structures & Algorithms
+
+✅ Docker
+
+✅ HTML & CSS
+
+✅ JavaScript
+
+✅ Bootstrap
+
+✅ React
+
+✅ Java Programming
+
+✅ Spring Boot
 
 ---
 
-## 🏆 **Certifications & Achievements**
+# 🥇 Achievements
 
-- Certified in **C, C++, DSA, Docker**
-- Internship in **HTML, CSS, JS, Bootstrap, React**
-- Industry Experience at **CodePainter Solutions**
-- AI Internship in **Agentic AI & Data Mining**
-- Participated in International Coding Competitions  
-- Runner-up in multiple coding contests  
+🏆 Runner-up in Multiple Coding Competitions
+
+🌍 Participated in International Coding Competitions
+
+💻 Real-world Industry Experience
+
+🤖 AI Internship Experience
+
+🚀 Developed Production Applications
+
+⭐ Strong Java Backend Developer
 
 ---
 
-## 📈 **GitHub Analytics**
+# 🎓 Education
+
+## 🎓 Bachelor of Technology
+
+Computer Science Engineering
+
+**Annasaheb Dange College of Engineering, Ashta**
+
+CGPA: **8.73**
+
+---
+
+## 🎓 Diploma
+
+Computer Engineering
+
+**Government Polytechnic, Karad**
+
+Percentage: **88.34%**
+
+---
+
+# 📈 Career Timeline
+
+```text
+2021
+│
+├── Diploma in Computer Engineering
+│
+2024
+│
+├── Java Full Stack Development
+│
+2025
+│
+├── Software Developer @ CodePainter
+│
+├── AI Internship
+│
+├── Production Projects
+│
+2026
+│
+└── Preparing for Product-Based Companies 🚀
+```
+
+---
+
+# 🌱 Currently Working On
+
+- 🚀 Enterprise Applications
+- 🤖 Agentic AI
+- ☁️ Cloud Computing
+- 🐳 Docker
+- ⚙️ Microservices
+- 📈 System Design
+- 📚 Data Structures & Algorithms
+
+---
+
+# 📚 Coding Profiles
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=GayatriSutar2004&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-  />
-  <img
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GayatriSutar2004&theme=radical&hide_border=true"
-  />
+
+<a href="https://github.com/GayatriSutar2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge"/>
+</a>
+
 </p>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriSutar2004&layout=compact&theme=radical&hide_border=true"
-  />
-</p>
+---
+<!-- ===================================================== -->
+<!--              GITHUB ANALYTICS & CONNECT               -->
+<!-- ===================================================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=GayatriSutar2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em"
+src="https://streak-stats.demolab.com?user=GayatriSutar2004&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriSutar2004&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 ---
 
-## 🎯 **Coding Mindset (Replaced Fun Facts)**
+# 🏆 GitHub Trophies
 
-> **“Write clean code, think in systems, automate the boring, and build things that matter.” 🚀**
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GayatriSutar2004&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
 
 ---
 
-## 📬 **Let’s Connect**
-- LinkedIn: [Gayatri Sutar](https://www.linkedin.com/in/gayatri-sutar2004)  
-- Portfolio: [gayatrisutar.netlify.app](https://gayatrisutar.netlify.app)
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GayatriSutar2004&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> **⚠️ Enable the GitHub Action described below before this image will appear.**
+
+<img src="https://raw.githubusercontent.com/GayatriSutar2004/GayatriSutar2004/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💭 Developer Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# 🌟 Open Source Goals
+
+```text
+✔ Contribute to Open Source Projects
+✔ Build Scalable Backend Systems
+✔ Learn Kubernetes & AWS
+✔ Master System Design
+✔ Crack a Product-Based Company
+✔ Build SaaS Products
+✔ Become a Java Backend Expert
+```
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gayatri-sutar2004">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/GayatriSutar2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://gayatrisutar.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 Thanks for visiting my profile!
+
+### ⭐ If you like my work, don't forget to star my repositories.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&width=600&lines=Thanks+for+Visiting!;Happy+Coding!;Keep+Learning+🚀;Let's+Build+Something+Amazing!"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6C63FF,50:8A2BE2,100:00C9FF"/>
+
+</div>
+
+
+
+# ⚡ Fun Facts
+
+✨ I enjoy solving real-world problems with code.
+
+☕ Coffee + Java = Productivity
+
+🚀 I believe consistency beats motivation.
+
+💡 "Write clean code, automate everything."
 
 ---
