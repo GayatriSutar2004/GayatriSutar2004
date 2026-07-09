@@ -23,8 +23,8 @@
 
 ## 🚀 **Professional Summary**
 
-I am a **Third-Year CSE student and Software Developer** with hands-on **real-world industry experience** in building production-ready applications.  
-My strongest expertise is in **Java and backend development**, with solid working knowledge of **Spring Boot, React, Android, Docker, and databases.**
+I am a **Final-Year CSE student and Software Developer** with hands-on **real-world industry experience** in building production-ready applications.  
+My strongest expertise is in **Full Stack development**, with solid working knowledge of **Spring Boot, React, Docker, and databases.**
 
 Currently, I am:
 - 💼 **Working at CodePainter Solutions**
@@ -38,8 +38,8 @@ Currently, I am:
 ### **Languages & Frameworks (Best First)**
 - ✅ **Java (Strongest)**
 - Spring Boot  
-- React  
-- Android  
+- React
+- SQL
 - MongoDB  
 
 ### **Tools & Technologies**
@@ -54,50 +54,17 @@ Currently, I am:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-## 💼 **Work & Internship Experience**
-
-### **🔹 Software Developer | CodePainter Solutions (Present)**
-- Worked on real-world software applications  
-- Collaborated with a development team  
-- Designed and improved backend services and application logic  
-- Worked with APIs, databases, and application architecture  
-
-### **🔹 AI Intern | Data Mining using Agentic AI (Ongoing)**
-- Building intelligent data extraction and processing systems  
-- Implementing agent-based AI workflows  
-- Working with structured and unstructured data  
-- Experimenting with automation and AI-driven decision systems  
 
 ---
 
-## 🌟 **Featured Projects (Best Picks Only)**
-
-### 🚍 **Bus Pass Management System — *Best Java Project***
-**Tech:** Advanced Java  
-A real-world system to manage student bus passes featuring:
-- Secure authentication  
-- Admin dashboard  
-- Automated record management  
-- Scalable data handling  
-
-### 📇 **Contact Manager — *Best React Project***
-**Tech:** React + Backend  
-A modern web application with:
-- Full CRUD functionality  
-- Clean, responsive UI  
-- Persistent data storage  
-- Realistic application structure  
-
-🔗 **More Projects:** [View My Repositories](https://github.com/GayatriSutar2004)
+🔗 ** Projects:** [View My Repositories](https://github.com/GayatriSutar2004)
 
 ---
 
 ## 🎓 **Education**
 
-- **B.Tech in Computer Science (3rd Year)**  
-  Annasaheb Dange College of Engineering, Ashta  
+- **B.Tech in Computer Science (4th Year)**  
+  Annasaheb Dange College of Engineering, Ashta  -*8.73*
 
 - **Diploma in Computer Engineering**  
   Government Polytechnic, Karad — *88.34%*
