@@ -142,47 +142,67 @@
 </div>
 
 ---
-<div>
-<div align="left">
-# 📊 Technical Expertise
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">📊 Technical Expertise</h3>
 
 | Skill | Level |
-|------|---------|
-| Data Structures | ⭐⭐⭐⭐☆ |
+|---|---|
+| 🧠 Data Structures | ⭐⭐⭐⭐☆ |
 | ☕ Java | ⭐⭐⭐⭐⭐ |
 | ⚛️ React | ⭐⭐⭐⭐☆ |
 | 🗄️ SQL | ⭐⭐⭐⭐⭐ |
 | 🐳 Docker | ⭐⭐⭐☆☆ |
 | Git & GitHub | ⭐⭐⭐⭐⭐ |
-| REST APIs | ⭐⭐⭐⭐⭐ |
-</div>
----
+| 🔗 REST APIs | ⭐⭐⭐⭐⭐ |
 
-# 🚀 Core Competencies
-<div align="right">
+</td>
 
 
-| Backend | Frontend | Database | DevOps |
-|----------|-----------|-----------|---------|
-| Java | React | PostgreSQL | Docker |
-| Spring Boot | HTML | MongoDB | GitHub |
-| REST APIs | CSS | MySQL | Linux |
-| Hibernate | Bootstrap | Firebase | CI/CD |
+<td width="33%" valign="top">
 
-</div>
+<h3 align="center">🚀 Core Competencies</h3>
 
----
+| Backend | Frontend |
+|---|---|
+| Java | React |
+| Spring Boot | HTML |
+| REST APIs | CSS |
+| Hibernate | Bootstrap |
 
-# 📚 Currently Learning
+<br>
 
-<div align="center">
+| Database | DevOps |
+|---|---|
+| PostgreSQL | Docker |
+| MongoDB | GitHub |
+| MySQL | Linux |
+| Firebase | CI/CD |
 
-| 🚀 Technology | Progress |
-|---------------|----------|
-| AWS | 🟨🟨🟨⬜⬜ 60% |
-| System Design | 🟨⬜⬜⬜⬜ 20% |
+</td>
 
-</div>
+
+<td width="33%" valign="top">
+
+<h3 align="center">📚 Currently Learning</h3>
+
+| Technology | Progress |
+|---|---|
+| ☁️ AWS | 🟨🟨🟨⬜⬜ 60% |
+| 🏗️ System Design | 🟨⬜⬜⬜⬜ 20% |
+| ⚙️ Microservices | 🟨🟨🟨⬜⬜ 60% |
+| ☸️ Kubernetes | 🟨🟨⬜⬜⬜ 40% |
+
+</td>
+
+</tr>
+</table>
+
 </div>
 ---
 
