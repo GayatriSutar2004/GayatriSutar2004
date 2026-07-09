@@ -85,14 +85,22 @@ Currently, I am:
 ## 📈 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GayatriSutar2004&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=GayatriSutar2004&theme=radical" width="48%" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=GayatriSutar2004&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
+  />
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GayatriSutar2004&theme=radical&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriSutar2004&layout=compact&theme=radical" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriSutar2004&layout=compact&theme=radical&hide_border=true"
+  />
 </p>
-
 ---
 
 ## 🎯 **Coding Mindset (Replaced Fun Facts)**
