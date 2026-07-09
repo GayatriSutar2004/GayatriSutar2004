@@ -142,27 +142,25 @@
 </div>
 
 ---
-
+<div>
+<div align="left">
 # 📊 Technical Expertise
 
 | Skill | Level |
 |------|---------|
+| Data Structures | ⭐⭐⭐⭐☆ |
 | ☕ Java | ⭐⭐⭐⭐⭐ |
-| 🌱 Spring Boot | ⭐⭐⭐⭐⭐ |
 | ⚛️ React | ⭐⭐⭐⭐☆ |
 | 🗄️ SQL | ⭐⭐⭐⭐⭐ |
-| 🍃 MongoDB | ⭐⭐⭐⭐☆ |
-| 🐳 Docker | ⭐⭐⭐⭐☆ |
-| 📱 Android | ⭐⭐⭐⭐☆ |
+| 🐳 Docker | ⭐⭐⭐☆☆ |
 | Git & GitHub | ⭐⭐⭐⭐⭐ |
 | REST APIs | ⭐⭐⭐⭐⭐ |
-| Data Structures | ⭐⭐⭐⭐☆ |
-
+</div>
 ---
 
 # 🚀 Core Competencies
+<div align="right">
 
-<div align="center">
 
 | Backend | Frontend | Database | DevOps |
 |----------|-----------|-----------|---------|
@@ -181,14 +179,11 @@
 
 | 🚀 Technology | Progress |
 |---------------|----------|
-| Kubernetes | 🟨🟨🟨⬜⬜ 60% |
 | AWS | 🟨🟨🟨⬜⬜ 60% |
-| Microservices | 🟨🟨🟨🟨⬜ 80% |
-| System Design | 🟨🟨🟨⬜⬜ 60% |
-| Agentic AI | 🟩🟩🟩🟩🟩 100% |
+| System Design | 🟨⬜⬜⬜⬜ 20% |
 
 </div>
-
+</div>
 ---
 
 # 💡 Development Philosophy
